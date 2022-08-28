@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(120deg, #050505d8, #2aa2dada);
+}
+
+section {
+    text-align: center;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, .5);
+
+}
+
+h1 {
+    color: #f8f6f6;
+}
+
+button {
+    border: none;
+    color: #f8f6f6;
+    height: 2.2em;
+    width: 5.5em;
+    margin-bottom: 1em;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.start {
+    background-color: #087523
+}
+
+.pause {
+    background-color: #a89007
+}
+
+.stop {
+    background-color: #c02104;
+}
