@@ -1,5 +1,7 @@
 ## <h1>Cronômetro</h1>
-<h2>Projeto desenvolvido para praticar HTML5, CSS3 e JavaScript.</h2> 
+<h2>Projeto desenvolvido para praticar HTML5, CSS3 e JavaScript.</h2>
+
+<img align="center" alt="Cronômetro" src="https://i.postimg.cc/ZnPnG7wy/projeto-cronometro.png">
 
 [🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/cronometro/)
 
